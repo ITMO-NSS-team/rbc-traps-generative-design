@@ -1,0 +1,4 @@
+https://github.com/ITMO-NSS-team/GEFEST/archive/main.zip
+numpy==1.19.2
+MPh==0.7.6
+pickledb==0.9.2
